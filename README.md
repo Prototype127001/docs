@@ -40,7 +40,12 @@ Getting started with developing on the Roku Platform
 
 ## [Publish](/publish/)
 
+* [Platform features](/publish/platform-features/index.md)
+* [Platform features](/publish/platform-features/index.html)
 * [Platform features](/publish/platform-features/README.md)
+* [Platform features](/publish/platform-features/README.html)
+* [Platform features](/publish/platform-features/)
+* [Platform features](/publish/platform-features)
 * [Channel Store](/publish/channel-store/README.md)
  * [Developer Dashboard](/publish/channel-store/developer-dashboard.md)
 * [Monetization](/publish/monetization/README.md)
