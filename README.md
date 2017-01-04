@@ -29,7 +29,10 @@ Getting started with developing on the Roku Platform
 
 * [Getting Started Test](/develop/getting-started/readme.md)
 * [SDK Development Guide](/develop/sdk-development/devtools.md)
-* [Developer Guides and Tutorials](/develop/guides/)
+* [Developer Guides and Tutorials](/develop/guides/readme.md)
+* [Developer Guides and Tutorials](/develop/guides/readme.html)
+* [Developer Guides and Tutorials](/develop/guides/index.md)
+* [Developer Guides and Tutorials](/develop/guides/index.html)
  * [Examples Gallery](/develop/guides/examples.md)
 * [Specifications](/develop/specifications/README.md)
 * [Developer Tools](/develop/developer-tools/devtools.md)
