@@ -32,7 +32,7 @@ Getting started with developing on the Roku Platform
 * [Developer Guides and Tutorials](/develop/guides/README.md)
  * [Examples Gallery](/develop/guides/examples.md)
 * [Specifications](/develop/specifications/README.md)
-* [Developer Tools](/develop/developer-tools/README.md)
+* [Developer Tools](/develop/developer-tools/devtools.md)
 
 
 ## [Publish](/publish/)
