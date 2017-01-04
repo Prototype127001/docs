@@ -19,7 +19,7 @@ Getting started with developing on the Roku Platform
 
 ## [Design](/design/)
 
-* [Roku Remote](/design/roku-remote.md)
+* [Roku Remote Test](/design/roku-remote.md)
 * [UX Guidelines](/design/design-guidelines.md)
 * [Channel Artwork](/design/channel-artwork.md)
 * [Roku Display Ads](/design/display-ads.md)
