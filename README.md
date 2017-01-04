@@ -27,18 +27,18 @@ Getting started with developing on the Roku Platform
 
 ## [Develop](/develop/)
 
-* [Getting Started](/develop/getting-started/)
-* [SDK Development Guide](/develop/sdk-development/)
-* [Developer Guides and Tutorials](/develop/guides/)
+* [Getting Started](/develop/getting-started/README.md)
+* [SDK Development Guide](/develop/sdk-development/README.md)
+* [Developer Guides and Tutorials](/develop/guides/README.md)
  * [Examples Gallery](/develop/guides/examples.md)
-* [Specifications](/develop/specifications/)
-* [Developer Tools](/develop/developer-tools)
+* [Specifications](/develop/specifications/README.md)
+* [Developer Tools](/develop/developer-tools/README.md)
 
 
 ## [Publish](/publish/)
 
-* [Platform features](/publish/platform-features/)
-* [Channel Store](/publish/channel-store/)
+* [Platform features](/publish/platform-features/README.md)
+* [Channel Store](/publish/channel-store/README.md)
  * [Developer Dashboard](/publish/channel-store/developer-dashboard.md)
-* [Monetization](/publish/monetization)
-* [Beta Developers](/publish/beta-developer-program)
+* [Monetization](/publish/monetization/README.md)
+* [Beta Developers](/publish/beta-developer-program/README.md)
