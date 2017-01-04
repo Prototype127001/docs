@@ -1,4 +1,4 @@
-> :information_source: The following repo is a work in progress.
+> The following repo is a work in progress.
 >
 > The existing SDK docs are currently found here: http://sdkdocs.roku.com
 
